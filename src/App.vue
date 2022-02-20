@@ -11,7 +11,7 @@
         <p>
           Built with ♥ and
           <a href="https://vuejs.org/">Vue.js</a>.
-          The source is hosted on <a href="https://github.com/ngoduykhanh/portfolio">GitHub</a>
+          The source code is hosted on <a href="https://github.com/ngoduykhanh/portfolio">GitHub</a>
         </p>
         <p>
           This website is deployed on
