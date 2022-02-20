@@ -10,7 +10,8 @@
       <div id="footer-text">
         <p>
           Built with ♥ and
-          <a href="https://vuejs.org/">Vue.js</a>
+          <a href="https://vuejs.org/">Vue.js</a>.
+          The source is hosted on <a href="https://github.com/ngoduykhanh/portfolio">GitHub</a>
         </p>
         <p>
           This website is deployed on
