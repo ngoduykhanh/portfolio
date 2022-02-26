@@ -66,7 +66,7 @@
           💪 Software development (Python, Golang)
         </li>
       </ul>
-      <h2>Contacts</h2>
+      <h2>Contact</h2>
       <p>
         You can reach out to me via email <a href="mailto:k@ndk.name">k@ndk.name</a>.
         To make the conversation secure, you can encrypt the data using my <a href="https://ndk.name/pgp.asc">

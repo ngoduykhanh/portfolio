@@ -5,7 +5,7 @@
 
     <GitHubCard
         title="PowerDNS-Admin"
-        link="hhttps://github.com/PowerDNS-Admin/PowerDNS-Admin"
+        link="https://github.com/PowerDNS-Admin/PowerDNS-Admin"
         :info="PDAInfo"
         :loading="loading"
     >
